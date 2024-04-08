@@ -262,6 +262,7 @@ footer{
         text-align: center;
         padding-left: 0 !important;
         padding-top: 0 !important;
+        padding-bottom: 50px;
     }
     .newsletter-input input {
         padding: 14px 75px !important;
