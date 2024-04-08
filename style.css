@@ -267,12 +267,12 @@ footer{
         padding-bottom: 50px;
     }
     .newsletter-input input {
-        padding: 14px 75px !important;
+        padding: 14px 80px !important;
         margin-left: 20px;
         margin-top: 0 !important;
     }
     .newsletter-input button {
-        width: 100% !important;
+        width: 95% !important;
         margin-left: 20px;
     }
     .main {
