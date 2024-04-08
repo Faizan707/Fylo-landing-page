@@ -214,8 +214,10 @@ footer{
 
     }
     .nav-links ul {
-        margin-right: 0 !important;
+        margin-right: 10px !important;
         margin-top: 10px !important;
+    
+
     }
     .email-image img{ 
         width: 100% !important;
@@ -291,4 +293,5 @@ footer{
     .first-col{
         margin-top: 100px !important;
     }
+
 }
