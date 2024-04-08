@@ -268,12 +268,12 @@ footer{
     }
     .newsletter-input input {
         padding: 14px 75px !important;
-        margin-left: 40px;
+        margin-left: 20px;
         margin-top: 0 !important;
     }
     .newsletter-input button {
         width: 85% !important;
-        margin-left: 40px;
+        margin-left: 20px;
     }
     .main {
         flex-direction: column;
